@@ -1,1 +1,2 @@
 # java-level-3
+The course "Java. Level 3" includes the following topics: generalizations, working with databases, I / O streams, multithreading, testing, reflection, annotations. The topics covered in this course will be reinforced by finalizing the network chat from the previous course. In the last session of the course, you'll review over the Java language basics interview frequently asked questions to reinforce the material from the first quarter.
